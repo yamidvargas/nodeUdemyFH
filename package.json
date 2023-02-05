@@ -1,0 +1,20 @@
+{
+  "name": "cursosudemy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yamid Vargas",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "@types/yargs": "^17.0.22",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
